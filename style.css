@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+div>p{
+    border: solid 1px black;
+    text-align: center;
+    width: 200px;
+    align-items: center;
+    padding: 40px;
+    margin-top: 250px;
+     box-shadow: 20px 20px 50px 10px pink inset;
+}
+div>h3{
+    border: solid 1px black;
+    text-align: center;
+    width: 200px;
+    align-items: center;
+    padding: 40px;
+    margin-top: 250px;
+    box-shadow: 20px 20px 20px 10px rgba(250, 20, 238, 0.785);
+}
